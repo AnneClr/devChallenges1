@@ -1,0 +1,88 @@
+.containerContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 5rem 0 10rem 0;
+}
+
+.imgScarecrow {
+  width: 100%;
+  margin: auto;
+}
+
+.textContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 0.5rem;
+}
+
+.title {
+  color: #333;
+  font-weight: bold;
+  letter-spacing: -0.15rem;
+  font-size: 2.5rem;
+  width: 100%;
+  line-height: 3rem;
+  padding: 0.5rem;
+}
+
+.paragraph {
+  color: #4f4f4f;
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: -0.055rem;
+  line-height: 2rem;
+  width: 100%;
+}
+
+.backButton {
+  background-color: #333;
+  color: #fff;
+  text-transform: uppercase;
+  width: 13.5rem;
+  height: 3rem;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: -0.03rem;
+}
+
+@media screen and (min-width: 768px) {
+  .containerContent {
+    flex-direction: row;
+    margin: 10rem auto;
+    max-width: 80rem;
+    gap: 4rem;
+  }
+  .imgScarecrow {
+    width: 50%;
+  }
+
+  .textContainer {
+    gap: 4rem;
+    padding: 2rem;
+  }
+
+  .title {
+    letter-spacing: -0.15rem;
+    font-size: 4rem;
+    width: 32rem;
+    line-height: 4rem;
+  }
+
+  .paragraph {
+    font-size: 1.5rem;
+    font-weight: 400;
+    letter-spacing: -0.055rem;
+    line-height: 3rem;
+    width: 24rem;
+  }
+
+  .backButton {
+    width: 13.5rem;
+    height: 4.25rem;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: -0.03rem;
+  }
+}
