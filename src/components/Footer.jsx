@@ -9,9 +9,9 @@ export default function Footer() {
       </p>
       <div>
           <h3>
-            <a href="https://{your-demo-link.your-domain}">Demo</a>
+            <a href="https://dev-challenges1.vercel.app/">Demo</a>
             <span> | </span>
-            <a href="https://{your-url-to-the-solution}">Solution</a>
+            <a href="https://github.com/AnneClr/devChallenges1">Solution</a>
             <span> | </span>
             <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
               Challenge
