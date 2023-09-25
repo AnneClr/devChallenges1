@@ -12,7 +12,7 @@
 
 ## Overview
 
-[screenshot](https://gist.github.com/AnneClr/5bf0ece9e8e8faf24400e3d58db40209)
+![screenshot](https://gist.github.com/AnneClr/5bf0ece9e8e8faf24400e3d58db40209)
 
 ### Built With
 
