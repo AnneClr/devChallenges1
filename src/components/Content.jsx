@@ -1,4 +1,4 @@
-import scarecrow from "./Scarecrow.png";
+import scarecrow from "/Scarecrow.png";
 export default function Content() {
   return (
     <div className="containerContent">
