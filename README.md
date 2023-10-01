@@ -27,5 +27,5 @@ Nothing to declare ☀️
 
 ## Contact
 
-- GitHub (https://{github.com/AnneClr})
+- GitHub https://github.com/AnneClr
 
